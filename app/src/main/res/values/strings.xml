@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cookies</string>
+    <string name="cookie">Cookie</string>
+    <string name="_zero">0</string>
+    <string name="_1_for_click">+1 за клик</string>
+    <string name="_up">UP</string>
+    <string name="_toaster">Тостер</string>
+    <string name="_100">100</string>
+    <string name="_c">C</string>
+    <string name="_man_at_touaster">Мужик для тостера</string>
+    <string name="_1000">1000</string>
+    <string name="_500">500</string>
+</resources>
